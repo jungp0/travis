@@ -1,4 +1,4 @@
-package src.main.java.io.github.joaomlneto.travis_ci_tutorial_java;
+package com.example;
 
 public class SimpleCalculator {
 	public int add(int a, int b) {
