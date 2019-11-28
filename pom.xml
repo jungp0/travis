@@ -40,7 +40,7 @@
 					<appendAssemblyId>false</appendAssemblyId>
 					<archive>
 						<manifest>
-							<mainClass>com.example.SimpleCalculator</mainClass>
+							<mainClass>com.example.travis.SimpleCalculator</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
